@@ -1,8 +1,5 @@
-functions.o
-global.o
-input
-main.o
+
+*.o
+
 matrix.in
 output.out
-person.o
-street.o
